@@ -1,0 +1,9262 @@
+
+Pubmed-entry ::= {
+  pmid 30750736,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Extraction of Teeth."
+      },
+      authors {
+        names ml {
+          "Taylor J"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "645-649",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750736,
+        other {
+          db "pmc",
+          tag str "PMC6076701"
+        }
+      }
+    },
+    pmid 30750736,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750735,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Singular Development of an Artery of the Gums."
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "664",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750735,
+        other {
+          db "pmc",
+          tag str "PMC6076700"
+        }
+      }
+    },
+    pmid 30750735,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750734,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Removal of the Superior Maxilla on the Left Side, with a Large
+ Tumor Involving That Bone."
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "629-631",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750734,
+        other {
+          db "pmc",
+          tag str "PMC6076698"
+        }
+      }
+    },
+    pmid 30750734,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750733,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On the Morbid Changes of Saliva."
+      },
+      authors {
+        names ml {
+          "Piggot AS"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "565-592",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750733,
+        other {
+          db "pmc",
+          tag str "PMC6076697"
+        }
+      }
+    },
+    pmid 30750733,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750732,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Excision of the Inferior Maxillary Bone for Caries."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bullock WG",
+            affil str "Savannah, Geo."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "640-642",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750732,
+        other {
+          db "pmc",
+          tag str "PMC6076694"
+        }
+      }
+    },
+    pmid 30750732,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750731,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Disease of the Antrum Produced by a Fall."
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "635-637",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750731,
+        other {
+          db "pmc",
+          tag str "PMC6076693"
+        }
+      }
+    },
+    pmid 30750731,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750730,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A Case of Reproduction of the Inferior Maxillary Bone."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jones W",
+            affil str "Kenton, Ohio."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "592-596",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750730,
+        other {
+          db "pmc",
+          tag str "PMC6076692"
+        }
+      }
+    },
+    pmid 30750730,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750729,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effects of Chloroform on the Blood."
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "637-640",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750729,
+        other {
+          db "pmc",
+          tag str "PMC6076691"
+        }
+      }
+    },
+    pmid 30750729,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750728,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Dental Patents."
+      },
+      authors {
+        names ml {
+          "Arthur R"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "530-550",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750728,
+        other {
+          db "pmc",
+          tag str "PMC6076689"
+        }
+      }
+    },
+    pmid 30750728,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750727,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Gold, Gold-Beating, Compounds and Alloys."
+      },
+      authors {
+        names ml {
+          "Wright RN"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "551-565",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750727,
+        other {
+          db "pmc",
+          tag str "PMC6076686"
+        }
+      }
+    },
+    pmid 30750727,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750726,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Patent Crystalline Sponge Gold."
+      },
+      authors {
+        names ml {
+          "Watts AJ"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "642-644",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750726,
+        other {
+          db "pmc",
+          tag str "PMC6076685"
+        }
+      }
+    },
+    pmid 30750726,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750725,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On the Physiology of Absorption and of Respiration."
+      },
+      authors {
+        names ml {
+          "Bernard MC"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "602-628",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750725,
+        other {
+          db "pmc",
+          tag str "PMC6076684"
+        }
+      }
+    },
+    pmid 30750725,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750724,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An Extraordinary Case of Hemorrhage."
+      },
+      authors {
+        names std {
+          {
+            name ml "Harris TC",
+            affil str "London."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "599-600",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750724,
+        other {
+          db "pmc",
+          tag str "PMC6076681"
+        }
+      }
+    },
+    pmid 30750724,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750723,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Replacement of the Teeth: No. II."
+      },
+      authors {
+        names ml {
+          "Cushman CF"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "597-598",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750723,
+        other {
+          db "pmc",
+          tag str "PMC6076678"
+        }
+      }
+    },
+    pmid 30750723,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750722,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A Counterblast against Tobacco."
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "632-635",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750722,
+        other {
+          db "pmc",
+          tag str "PMC6076676"
+        }
+      }
+    },
+    pmid 30750722,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750721,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An Exostosis on the Root of the First Left Lower Molar."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kreonele E",
+            affil str "Hyde Park, London."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "600-602",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750721,
+        other {
+          db "pmc",
+          tag str "PMC6076675"
+        }
+      }
+    },
+    pmid 30750721,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750720,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Chemistry as a Branch of Medical Education."
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "661-663",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750720,
+        other {
+          db "pmc",
+          tag str "PMC6076674"
+        }
+      }
+    },
+    pmid 30750720,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30750719,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Odontalgia. Its Pathology and Treatment."
+      },
+      authors {
+        names ml {
+          "Togg JP"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dent Sci",
+          ml-jta "Am J Dent Sci",
+          name "The American journal of dental science"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "3",
+          issue "4",
+          pages "513-529",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30750719,
+        other {
+          db "pmc",
+          tag str "PMC6076673"
+        }
+      }
+    },
+    pmid 30750719,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431986,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Case of Pregnancy Complicated with Carcinoma of the Uterus, in
+ Which Gestation Was Prolonged to the Seventeenth Month."
+      },
+      authors {
+        names std {
+          {
+            name ml "Menzies PR",
+            affil str "Edinburgh, late one of the Medical Officers of the City
+ Parish of Glasgow."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "129-141",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431986,
+        other {
+          db "pmc",
+          tag str "PMC5767354"
+        }
+      }
+    },
+    pmid 30431986,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431985,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Notice of the Dissection of a Case of Lateral Transposition of
+ the Viscera of the Thorax and Abdomen in a Man."
+      },
+      authors {
+        names std {
+          {
+            name ml "Thomson A",
+            affil str "London and Edinburgh, Professor of Anatomy in the
+ University of Glasgow."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "216-225",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431985,
+        other {
+          db "pmc",
+          tag str "PMC5767353"
+        }
+      }
+    },
+    pmid 30431985,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431984,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Contributions to Midwifery Statistics and Practice."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pagan JM",
+            affil str "Professor of Midwifery in the University of Glasgow,
+ Fellow of the Faculty of Physicians and Surgeons, &c."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "207-216",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431984,
+        other {
+          db "pmc",
+          tag str "PMC5767352"
+        }
+      }
+    },
+    pmid 30431984,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431983,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Report of Cases Treated in the Medical Wards of the Glasgow
+ Royal Infirmary."
+      },
+      authors {
+        names std {
+          {
+            name ml "Weir W",
+            affil str "Physician to the Infirmary, Lecturer on Clinical
+ Medicine, &c."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "197-207",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431983,
+        other {
+          db "pmc",
+          tag str "PMC5767351"
+        }
+      }
+    },
+    pmid 30431983,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431982,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Berlin, Its Medical Institutions, Professors, &c."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hingston WH",
+            affil str "Edinburgh, Honorary and Corresponding Member of the
+ German Medical Society of Paris."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "174-184",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431982,
+        other {
+          db "pmc",
+          tag str "PMC5767350"
+        }
+      }
+    },
+    pmid 30431982,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431981,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Reminiscences of Hernia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lyon W",
+            affil str "recently one of the Surgeons of Glasgow Royal Infirmary."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "163-174",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431981,
+        other {
+          db "pmc",
+          tag str "PMC5767349"
+        }
+      }
+    },
+    pmid 30431981,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431980,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Medical Intelligence."
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "252-260",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431980,
+        other {
+          db "pmc",
+          tag str "PMC5767347"
+        }
+      }
+    },
+    pmid 30431980,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431979,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Case of Diseased Ovarium, in Which Ovariotomy Was Performed by
+ W. Lyon, Esq."
+      },
+      authors {
+        names std {
+          {
+            name ml "Howie JH",
+            affil str "Row, late House Surgeon, Glasgow Royal Infirmary."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "142-146",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431979,
+        other {
+          db "pmc",
+          tag str "PMC5767346"
+        }
+      }
+    },
+    pmid 30431979,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431978,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Narrative of a Case of Poisoning by Aconite and Belladonna, with
+ Remarks."
+      },
+      authors {
+        names std {
+          {
+            name ml "Easton JA",
+            affil str "Lecturer on Materia Medica in Anderson's University;
+ one of the Physicians to the Glasgow Royal Infirmary, &c."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "189-197",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431978,
+        other {
+          db "pmc",
+          tag str "PMC5767345"
+        }
+      }
+    },
+    pmid 30431978,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431977,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Selections from Medical Journals."
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "247-252",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431977,
+        other {
+          db "pmc",
+          tag str "PMC5767343"
+        }
+      }
+    },
+    pmid 30431977,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431976,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Remarks on the Propriety and Advantages of Hospitals for the
+ Cure of Syphilitic Diseases."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tannahill RD",
+            affil str "Surgeon to the Glasgow Lock Hospital, &c."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "158-163",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431976,
+        other {
+          db "pmc",
+          tag str "PMC5767342"
+        }
+      }
+    },
+    pmid 30431976,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431975,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On the Utility of a Skeleton Articulated with Caoutchouc, as an
+ Aid in Illustrating the Diagnosis of Dislocations."
+      },
+      authors {
+        names std {
+          {
+            name ml "Buchanan G",
+            affil str "Demonstrator of Anatomy in Anderson's University,
+ Glasgow."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "184-189",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431975,
+        other {
+          db "pmc",
+          tag str "PMC5767339"
+        }
+      }
+    },
+    pmid 30431975,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30431974,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On Facial Anaesthesia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cowan JB",
+            affil str "Glasgow."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glasgow Med J",
+          ml-jta "Glasgow Med J",
+          issn "0367-4800",
+          name "Glasgow medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "1",
+          issue "2",
+          pages "146-158",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30431974,
+        other {
+          db "pmc",
+          tag str "PMC5767338"
+        }
+      }
+    },
+    pmid 30431974,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330884,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Statistics of the Mortality by Shipwreck in the British Navy for
+ Fifty-Seven Years, from 1793 to 1849."
+      },
+      authors {
+        names std {
+          {
+            name ml "Stratton T",
+            affil str "Edinen., Surgeon, Royal Navy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "63-65",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330884,
+        other {
+          db "pmc",
+          tag str "PMC5794313"
+        }
+      }
+    },
+    pmid 30330884,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330883,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Medical Intelligence."
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "241-252",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330883,
+        other {
+          db "pmc",
+          tag str "PMC5794312"
+        }
+      }
+    },
+    pmid 30330883,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330882,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Practical Remarks on Some Exhausting Diseases."
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "200-201",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330882,
+        other {
+          db "pmc",
+          tag str "PMC5794311"
+        }
+      }
+    },
+    pmid 30330882,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330881,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Statistical Report upon Cases of Disease of the Heart Occurring
+ in St George's Hospital, London; Especially in Relation to Rheumatism and
+ Albuminuria."
+      },
+      authors {
+        names std {
+          {
+            name ml "Barclay",
+            affil str "the Medical Registrar."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "89-119",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330881,
+        other {
+          db "pmc",
+          tag str "PMC5794310"
+        }
+      }
+    },
+    pmid 30330881,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330880,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Case of Inflammation of the Brain, Terminating Fatally.
+ Pericarditis; Gastritis."
+      },
+      authors {
+        names std {
+          {
+            name ml "de Vitre ED",
+            affil str "Physician to the Lancaster Dispensary and House of
+ Recovery."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "57-62",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330880,
+        other {
+          db "pmc",
+          tag str "PMC5794309"
+        }
+      }
+    },
+    pmid 30330880,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330879,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A Practical Treatise on Inflammation of the Uterus, Its Cervix
+ and Appendages, and on Its Connexion with Uterine Disease."
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "164-199",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330879,
+        other {
+          db "pmc",
+          tag str "PMC5794308"
+        }
+      }
+    },
+    pmid 30330879,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330878,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Observations on the Dissimilarity and Non-Identity of Syphilis
+ and Gonorrhoea; with a Few Characteristic Marks of Discrimination."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kelso JJ",
+            affil str "Lisburn, Belfast."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "24-38",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330878,
+        other {
+          db "pmc",
+          tag str "PMC5794307"
+        }
+      }
+    },
+    pmid 30330878,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330877,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Seven Figures, Illustrating the Course of the Spinal Nerves."
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "226-240",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330877,
+        other {
+          db "pmc",
+          tag str "PMC5794306"
+        }
+      }
+    },
+    pmid 30330877,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330876,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On Some of the Principal Effects Resulting from the Detachment
+ of Fibrinous Deposits from the Interior of the Heart, and Their Mixture with
+ the Circulating Blood."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kirkes WS",
+            affil str "Licentiate of the Royal College of Physicians,
+ Registrar and Demonstrator of Morbid Anatomy at St Bartholomew's Hospital."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "119-155",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330876,
+        other {
+          db "pmc",
+          tag str "PMC5794305"
+        }
+      }
+    },
+    pmid 30330876,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330875,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An Account of Some Experiments and Observations Made on the Body
+ of an Executed Criminal."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kolliker A",
+            affil str "Professor of Anatomy and Physiology in the University
+ of Wurzburg."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "155-162",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330875,
+        other {
+          db "pmc",
+          tag str "PMC5794304"
+        }
+      }
+    },
+    pmid 30330875,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330874,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Notes on the Climate and Diseases of the City of Cork."
+      },
+      authors {
+        names std {
+          {
+            name ml "Popham J",
+            affil str "Physician to the Cork North Infirmary."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "38-57",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330874,
+        other {
+          db "pmc",
+          tag str "PMC5794303"
+        }
+      }
+    },
+    pmid 30330874,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330873,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Upon the Influence of the Nervous System on the Movements of the
+ Iris."
+      },
+      authors {
+        names std {
+          {
+            name ml "Budge J",
+            affil str "Bonn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "1-23",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330873,
+        other {
+          db "pmc",
+          tag str "PMC5794302"
+        }
+      }
+    },
+    pmid 30330873,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330872,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Observations on the Meteorology of Canada."
+      },
+      authors {
+        names std {
+          {
+            name ml "Winder W",
+            affil str "Librarian to the Honourable the Legislative Assembly of
+ Canada."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "162-163",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330872,
+        other {
+          db "pmc",
+          tag str "PMC5794301"
+        }
+      }
+    },
+    pmid 30330872,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330871,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "New Views on the Physiology and Pathology of Arteries."
+      },
+      authors {
+        names ml {
+          "Cottle JM"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "66-83",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330871,
+        other {
+          db "pmc",
+          tag str "PMC5794300"
+        }
+      }
+    },
+    pmid 30330871,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30330870,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Thoughts, Reflections, and Remarks on Obstetric Subjects."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bremner J",
+            affil str "Surgeon."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Edinb Med Surg J",
+          ml-jta "Edinb Med Surg J",
+          issn "0963-4932",
+          name "Edinburgh medical and surgical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "80",
+          issue "196",
+          pages "83-89",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30330870,
+        other {
+          db "pmc",
+          tag str "PMC5794299"
+        }
+      }
+    },
+    pmid 30330870,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164547,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Our Problems. An Essay to Facilitate United Labours for Rational
+ Medicine."
+      },
+      authors {
+        names ml {
+          "Weber H"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "61-73",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164547,
+        other {
+          db "pmc",
+          tag str "PMC5186208"
+        }
+      }
+    },
+    pmid 30164547,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164546,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Digestive Fluids and the Metamorphosis of Tissue. A
+ Physiologico-Chemical Investigation."
+      },
+      authors {
+        names ml {
+          "Day GE"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "167-195",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164546,
+        other {
+          db "pmc",
+          tag str "PMC5186207"
+        }
+      }
+    },
+    pmid 30164546,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164545,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On the Origin and Formation of Tubercles of the Lungs."
+      },
+      authors {
+        names ml {
+          "Paget J"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "196-198",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164545,
+        other {
+          db "pmc",
+          tag str "PMC5186205"
+        }
+      }
+    },
+    pmid 30164545,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164544,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Pathology and Practice of Medicine."
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "267-273",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164544,
+        other {
+          db "pmc",
+          tag str "PMC5186203"
+        }
+      }
+    },
+    pmid 30164544,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164543,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Considerations on the Causes of Dilatation of the Heart, with an
+ Analysis of Evidence Bearing on the Connexion of That Affection with Disease
+ of the Lung."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gairdner WT",
+            affil str "Superintendent of Morbid Anatomy and
+ Assistant-Physician to the Royal Infirmary of Edinburgh."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "209-225",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164543,
+        other {
+          db "pmc",
+          tag str "PMC5186200"
+        }
+      }
+    },
+    pmid 30164543,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164542,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On Albumen in the Urine in Various Diseases."
+      },
+      authors {
+        names ml {
+          "Begbie JW"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "46-60",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164542,
+        other {
+          db "pmc",
+          tag str "PMC5186199"
+        }
+      }
+    },
+    pmid 30164542,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164541,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An Historical and Critical Study in Relation to the Functions
+ and Diseases of the Pancreas."
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "154-166",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164541,
+        other {
+          db "pmc",
+          tag str "PMC5186197"
+        }
+      }
+    },
+    pmid 30164541,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164540,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Decennium Pathologicum; or, Contributions to the History of
+ Chronic Disease, from the St. George's Hospital Records of Fatal Cases during
+ Ten Years."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chambers TK",
+            affil str "Physician to St. Mary's Hospital, London."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "244-248",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164540,
+        other {
+          db "pmc",
+          tag str "PMC5186196"
+        }
+      }
+    },
+    pmid 30164540,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164539,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Therapeutical Record."
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "278-283",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164539,
+        other {
+          db "pmc",
+          tag str "PMC5186195"
+        }
+      }
+    },
+    pmid 30164539,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164538,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Manual of General Pathological Anatomy."
+      },
+      authors {
+        names ml {
+          "Jones H"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "30-46",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164538,
+        other {
+          db "pmc",
+          tag str "PMC5186194"
+        }
+      }
+    },
+    pmid 30164538,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164537,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Annals of Physiology."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gray H",
+            affil str "Demonstrator of Anatomy at St. George's Hospital, and
+ Surgeon to the St. George's and St. James's Dispensary."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "249-267",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164537,
+        other {
+          db "pmc",
+          tag str "PMC5186193"
+        }
+      }
+    },
+    pmid 30164537,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164536,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Notes of the Chemical Composition and Microscopical Characters
+ of the Liver and Kidney in Some Cases of Diabetes, More Particularly with
+ Reference to the Amount of Fatty Matter Present in These Glands."
+      },
+      authors {
+        names ml {
+          "Beale L"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "226-233",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164536,
+        other {
+          db "pmc",
+          tag str "PMC5186190"
+        }
+      }
+    },
+    pmid 30164536,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164535,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A Practical Treatise on the Diseases of New-Born Children, and
+ of Infants at the Breast, &c."
+      },
+      authors {
+        names ml {
+          "Willshire WH"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "108-119",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164535,
+        other {
+          db "pmc",
+          tag str "PMC5186189"
+        }
+      }
+    },
+    pmid 30164535,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164534,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Surgery."
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "273-275",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164534,
+        other {
+          db "pmc",
+          tag str "PMC5186187"
+        }
+      }
+    },
+    pmid 30164534,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164533,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Midwifery, &c."
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "275-277",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164533,
+        other {
+          db "pmc",
+          tag str "PMC5186185"
+        }
+      }
+    },
+    pmid 30164533,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164532,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Urinary Deposits-Their Diagnosis, Pathology, and Therapeutical
+ Indications."
+      },
+      authors {
+        names ml {
+          "Hassall AH"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "123-149",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164532,
+        other {
+          db "pmc",
+          tag str "PMC5186183"
+        }
+      }
+    },
+    pmid 30164532,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164531,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Observations on Excision of the Os Calcis, with Cases."
+      },
+      authors {
+        names ml {
+          "Greenhow HM Esq"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "233-244",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164531,
+        other {
+          db "pmc",
+          tag str "PMC5186182"
+        }
+      }
+    },
+    pmid 30164531,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164530,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Erratum."
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "284",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164530,
+        other {
+          db "pmc",
+          tag str "PMC5186181"
+        }
+      }
+    },
+    abstract "[This corrects the article on p. 274 in vol. 11.].",
+    pmid 30164530,
+    pub-type {
+      "Published Erratum"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164529,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An Essay on the Action of Medicines in the System; or, ""On the
+ Mode in Which Therapeutic Agents Introduced into the Stomach Produce Their
+ Peculiar Effects on the Animal Economy."" Being the Prize Essay to Which the
+ Medical Society of London Awarded the Fothergillian Gold Medal for 1852."
+      },
+      authors {
+        names ml {
+          "Fleming A"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "88-107",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164529,
+        other {
+          db "pmc",
+          tag str "PMC5186180"
+        }
+      }
+    },
+    pmid 30164529,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164528,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Statuta Universitatis Oxoniensis-Addenda; Titulus VI."
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "73-87",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164528,
+        other {
+          db "pmc",
+          tag str "PMC5186178"
+        }
+      }
+    },
+    pmid 30164528,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164527,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On the Relations of Uterine to Constitutional Disorder."
+      },
+      authors {
+        names ml {
+          "Churchill F"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "22-30",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164527,
+        other {
+          db "pmc",
+          tag str "PMC5186177"
+        }
+      }
+    },
+    pmid 30164527,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164526,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Cure and Prevention of Cretinism."
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "119-123",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164526,
+        other {
+          db "pmc",
+          tag str "PMC5186175"
+        }
+      }
+    },
+    pmid 30164526,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164525,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Rationale of Whey-Cures."
+      },
+      authors {
+        names ml {
+          "Sieveking EH"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "149-154",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164525,
+        other {
+          db "pmc",
+          tag str "PMC5186169"
+        }
+      }
+    },
+    pmid 30164525,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164524,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Principles of Human Physiology."
+      },
+      authors {
+        names ml {
+          "Laycock T"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "1-22",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164524,
+        other {
+          db "pmc",
+          tag str "PMC5186167"
+        }
+      }
+    },
+    pmid 30164524,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 30164523,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Materia Medica."
+      },
+      from journal {
+        title {
+          iso-jta "Br Foreign Med Chir Rev",
+          ml-jta "Br Foreign Med Chir Rev",
+          name "The British and foreign medico-chirurgical review"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7
+          },
+          volume "12",
+          issue "23",
+          pages "277-278",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 1853,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30164523,
+        other {
+          db "pmc",
+          tag str "PMC5186166"
+        }
+      }
+    },
+    pmid 30164523,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 28907526,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Our Pauper Lunatic Asylums."
+      },
+      from journal {
+        title {
+          iso-jta "J Psychol Med Ment Pathol",
+          ml-jta "J Psychol Med Ment Pathol",
+          name "Journal of psychological medicine and mental pathology
+ (London, England : 1848)"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "6",
+          issue "23",
+          pages "403-418",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28907526,
+        other {
+          db "pmc",
+          tag str "PMC5097592"
+        }
+      }
+    },
+    pmid 28907526,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 28907525,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Derby County Asylum."
+      },
+      from journal {
+        title {
+          iso-jta "J Psychol Med Ment Pathol",
+          ml-jta "J Psychol Med Ment Pathol",
+          name "Journal of psychological medicine and mental pathology
+ (London, England : 1848)"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "6",
+          issue "23",
+          pages "445-449",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28907525,
+        other {
+          db "pmc",
+          tag str "PMC5097590"
+        }
+      }
+    },
+    pmid 28907525,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 28907524,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Association of Medical Officers of Asylums and Hospitals for
+ the Insane."
+      },
+      from journal {
+        title {
+          iso-jta "J Psychol Med Ment Pathol",
+          ml-jta "J Psychol Med Ment Pathol",
+          name "Journal of psychological medicine and mental pathology
+ (London, England : 1848)"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "6",
+          issue "23",
+          pages "453-455",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28907524,
+        other {
+          db "pmc",
+          tag str "PMC5097589"
+        }
+      }
+    },
+    pmid 28907524,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 28907523,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Chancery Lunatics."
+      },
+      from journal {
+        title {
+          iso-jta "J Psychol Med Ment Pathol",
+          ml-jta "J Psychol Med Ment Pathol",
+          name "Journal of psychological medicine and mental pathology
+ (London, England : 1848)"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "6",
+          issue "23",
+          pages "450-453",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28907523,
+        other {
+          db "pmc",
+          tag str "PMC5097588"
+        }
+      }
+    },
+    pmid 28907523,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 28907522,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Statistics of Mental Diseases in Denmark."
+      },
+      from journal {
+        title {
+          iso-jta "J Psychol Med Ment Pathol",
+          ml-jta "J Psychol Med Ment Pathol",
+          name "Journal of psychological medicine and mental pathology
+ (London, England : 1848)"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "6",
+          issue "23",
+          pages "441-444",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28907522,
+        other {
+          db "pmc",
+          tag str "PMC5097587"
+        }
+      }
+    },
+    pmid 28907522,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 28907521,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Habit-Physiologically Considered: A Lecture Delivered May 9th,
+ 1853, at the Bristol Literary and Philosophical Institution, by John
+ Addington Symonds, M.D., Consulting Physician to the Bristol General
+ Hospital, etc., etc."
+      },
+      authors {
+        names std {
+          {
+            name ml "Symonds JA",
+            affil str "CONSULTING PHYSICIAN TO THE BRISTOL GENERAL HOSPITAL,
+ ETC., ETC."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Psychol Med Ment Pathol",
+          ml-jta "J Psychol Med Ment Pathol",
+          name "Journal of psychological medicine and mental pathology
+ (London, England : 1848)"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "6",
+          issue "23",
+          pages "380-403",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28907521,
+        other {
+          db "pmc",
+          tag str "PMC5097586"
+        }
+      }
+    },
+    pmid 28907521,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 28907520,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Hanwell Asylum."
+      },
+      from journal {
+        title {
+          iso-jta "J Psychol Med Ment Pathol",
+          ml-jta "J Psychol Med Ment Pathol",
+          name "Journal of psychological medicine and mental pathology
+ (London, England : 1848)"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "6",
+          issue "23",
+          pages "437-441",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28907520,
+        other {
+          db "pmc",
+          tag str "PMC5097585"
+        }
+      }
+    },
+    pmid 28907520,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 28907519,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Importance of Early Detecting the Existence of Insanity."
+      },
+      from journal {
+        title {
+          iso-jta "J Psychol Med Ment Pathol",
+          ml-jta "J Psychol Med Ment Pathol",
+          name "Journal of psychological medicine and mental pathology
+ (London, England : 1848)"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "6",
+          issue "23",
+          pages "456-457",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28907519,
+        other {
+          db "pmc",
+          tag str "PMC5097583"
+        }
+      }
+    },
+    pmid 28907519,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 28907518,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An Analysis of Guislain's Work on Insanity: Third Lecture. Of
+ the Elements Which Must Enter into the Definition of Mental Diseases."
+      },
+      from journal {
+        title {
+          iso-jta "J Psychol Med Ment Pathol",
+          ml-jta "J Psychol Med Ment Pathol",
+          name "Journal of psychological medicine and mental pathology
+ (London, England : 1848)"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "6",
+          issue "23",
+          pages "418-436",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28907518,
+        other {
+          db "pmc",
+          tag str "PMC5097581"
+        }
+      }
+    },
+    pmid 28907518,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740870,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "CASES IN PRIVATE MIDWIFERY PRACTICE."
+      },
+      authors {
+        names ml {
+          "Falloon EL"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "1",
+          issue "26",
+          pages "563-565",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740870,
+        other {
+          db "pmc",
+          tag str "PMC2449656"
+        },
+        doi "10.1136/bmj.s3-1.26.563"
+      }
+    },
+    pmid 20740870,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740869,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "PATHOLOGY AND TREATMENT OF CHRONIC INDURATION OF THE MAMMA."
+      },
+      authors {
+        names ml {
+          "Birkett J"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "1",
+          issue "26",
+          pages "561-563",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740869,
+        other {
+          db "pmc",
+          tag str "PMC2449650"
+        },
+        doi "10.1136/bmj.s3-1.26.561"
+      }
+    },
+    pmid 20740869,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740868,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "ON THE ACTIVE PROPERTIES OF HEMLOCK."
+      },
+      authors {
+        names ml {
+          "Cogswell C"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "1",
+          issue "26",
+          pages "559-561",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740868,
+        other {
+          db "pmc",
+          tag str "PMC2449657"
+        },
+        doi "10.1136/bmj.s3-1.26.559"
+      }
+    },
+    pmid 20740868,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740867,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LEADING ARTICLES."
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 7,
+            day 1
+          },
+          volume "1",
+          issue "26",
+          pages "557-559",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 7,
+                day 1,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740867,
+        other {
+          db "pmc",
+          tag str "PMC2449653"
+        }
+      }
+    },
+    pmid 20740867,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740866,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "PERISCOPIC REVIEW."
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 24
+          },
+          volume "1",
+          issue "25",
+          pages "548-549",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 24,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 24,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740866,
+        other {
+          db "pmc",
+          tag str "PMC2449641"
+        }
+      }
+    },
+    pmid 20740866,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740865,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "READY MODE OF APPLYING THE DOUCHE, AND OF ADMINISTERING
+ INJECTIONS OF WATER."
+      },
+      authors {
+        names ml {
+          "Ikin JI"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 24
+          },
+          volume "1",
+          issue "25",
+          pages "541-542",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 24,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 24,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740865,
+        other {
+          db "pmc",
+          tag str "PMC2449635"
+        },
+        doi "10.1136/bmj.s3-1.25.541"
+      }
+    },
+    pmid 20740865,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740864,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "SUGAR OF MILK AS AN ARTICLE OF FOOD IN CONSUMPTION AND OTHER
+ PULMONARY DISEASES."
+      },
+      authors {
+        names ml {
+          "Turnbull J"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 24
+          },
+          volume "1",
+          issue "25",
+          pages "540-541",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 24,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 24,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740864,
+        other {
+          db "pmc",
+          tag str "PMC2449643"
+        },
+        doi "10.1136/bmj.s3-1.25.540"
+      }
+    },
+    pmid 20740864,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740863,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "TWO CASES OF SUDDEN DEATH FROM HAEMORRHAGE FROM ULCERATION OF
+ THE AORTA."
+      },
+      authors {
+        names ml {
+          "Cowdell C"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 24
+          },
+          volume "1",
+          issue "25",
+          pages "539-540",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 24,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 24,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740863,
+        other {
+          db "pmc",
+          tag str "PMC2449636"
+        },
+        doi "10.1136/bmj.s3-1.25.539"
+      }
+    },
+    pmid 20740863,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740862,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LEADING ARTICLES."
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 24
+          },
+          volume "1",
+          issue "25",
+          pages "537-539",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 24,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 24,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740862,
+        other {
+          db "pmc",
+          tag str "PMC2449637"
+        }
+      }
+    },
+    pmid 20740862,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740861,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "PERISCOPIC REVIEW."
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 17
+          },
+          volume "1",
+          issue "24",
+          pages "527-528",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 17,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 17,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740861,
+        other {
+          db "pmc",
+          tag str "PMC2449631"
+        }
+      }
+    },
+    pmid 20740861,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740860,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "OBJECTIONS TO THE USE OF CHLOROFORM."
+      },
+      authors {
+        names ml {
+          "Beecroft S"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 17
+          },
+          volume "1",
+          issue "24",
+          pages "524-525",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 17,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 17,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740860,
+        other {
+          db "pmc",
+          tag str "PMC2449619"
+        },
+        doi "10.1136/bmj.s3-1.24.524"
+      }
+    },
+    pmid 20740860,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740859,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "METHODS OF EXPRESSING THE PHENOMENA OF AUSCULTATION."
+      },
+      authors {
+        names ml {
+          "Markham WO"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 17
+          },
+          volume "1",
+          issue "24",
+          pages "523-524",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 17,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 17,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740859,
+        other {
+          db "pmc",
+          tag str "PMC2449623"
+        },
+        doi "10.1136/bmj.s3-1.24.523"
+      }
+    },
+    pmid 20740859,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740858,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "CONTRIBUTION TOWARDS A PATHOLOGICAL HISTORY OF UTERINE ""VIVACES
+""."
+      },
+      authors {
+        names ml {
+          "Watson E"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 17
+          },
+          volume "1",
+          issue "24",
+          pages "521-523",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 17,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 17,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740858,
+        other {
+          db "pmc",
+          tag str "PMC2449624"
+        },
+        doi "10.1136/bmj.s3-1.24.521"
+      }
+    },
+    pmid 20740858,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740857,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LEADING ARTICLES."
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 17
+          },
+          volume "1",
+          issue "24",
+          pages "517-521",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 17,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 17,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740857,
+        other {
+          db "pmc",
+          tag str "PMC2449630"
+        }
+      }
+    },
+    pmid 20740857,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740856,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "PERISCOPIC REVIEW."
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 10
+          },
+          volume "1",
+          issue "23",
+          pages "507-513",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 10,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 10,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740856,
+        other {
+          db "pmc",
+          tag str "PMC2449613"
+        }
+      }
+    },
+    pmid 20740856,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740855,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "FACTS RELATING TO SCARLET FEVER."
+      },
+      authors {
+        names ml {
+          "Richardson BW"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 10
+          },
+          volume "1",
+          issue "23",
+          pages "502-507",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 10,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 10,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740855,
+        other {
+          db "pmc",
+          tag str "PMC2449608"
+        },
+        doi "10.1136/bmj.s3-1.23.502"
+      }
+    },
+    pmid 20740855,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740854,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "ON THE ADMINISTRATION OF CHLOROFORM DURING PARTURITION."
+      },
+      authors {
+        names ml {
+          "Snow J"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 10
+          },
+          volume "1",
+          issue "23",
+          pages "500-502",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 10,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 10,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740854,
+        other {
+          db "pmc",
+          tag str "PMC2449612"
+        },
+        doi "10.1136/bmj.s3-1.23.500"
+      }
+    },
+    pmid 20740854,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740853,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LEADING ARTICLES."
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 10
+          },
+          volume "1",
+          issue "23",
+          pages "497-499",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 10,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 10,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740853,
+        other {
+          db "pmc",
+          tag str "PMC2449614"
+        }
+      }
+    },
+    pmid 20740853,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740852,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "PERISCOPIC REVIEW."
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 3
+          },
+          volume "1",
+          issue "22",
+          pages "490-492",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 3,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 3,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740852,
+        other {
+          db "pmc",
+          tag str "PMC2449601"
+        }
+      }
+    },
+    pmid 20740852,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740851,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "CASE OF EXTREME LATERAL CURVATURE OF THE SPINE, OF MORE THAN
+ FIFTEEN YEARS' DURATION."
+      },
+      authors {
+        names ml {
+          "Hare S"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 3
+          },
+          volume "1",
+          issue "22",
+          pages "481-484",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 3,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 3,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740851,
+        other {
+          db "pmc",
+          tag str "PMC2449604"
+        },
+        doi "10.1136/bmj.s3-1.22.481"
+      }
+    },
+    pmid 20740851,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740850,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "ON THE ANAESTHETIC PROPERTIES OF THE LYCOPERDON PROTEUS, OR
+ COMMON PUFF-BALL."
+      },
+      authors {
+        names ml {
+          "Richardson BW"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 3
+          },
+          volume "1",
+          issue "22",
+          pages "479-481",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 3,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 3,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740850,
+        other {
+          db "pmc",
+          tag str "PMC2449602"
+        },
+        doi "10.1136/bmj.s3-1.22.479"
+      }
+    },
+    pmid 20740850,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
+
+Pubmed-entry ::= {
+  pmid 20740849,
+  medent {
+    em std {
+      year 2010,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LEADING ARTICLES."
+      },
+      from journal {
+        title {
+          iso-jta "Assoc Med J",
+          ml-jta "Assoc Med J",
+          name "Association medical journal"
+        },
+        imp {
+          date std {
+            year 1853,
+            month 6,
+            day 3
+          },
+          volume "1",
+          issue "22",
+          pages "477-478",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 1853,
+                month 6,
+                day 3,
+                hour 0,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 1853,
+                month 6,
+                day 3,
+                hour 0,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20740849,
+        other {
+          db "pmc",
+          tag str "PMC2449599"
+        }
+      }
+    },
+    pmid 20740849,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
