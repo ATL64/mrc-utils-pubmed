@@ -3,4 +3,6 @@
 Utility modules for the Biotech-MRC project.  Currently in this repo:
 
 - Keyword extractor
-- JSON parser (to be put in here)
+- JSON parser 
+
+Developed together with Alejandro de Miquel https://github.com/alejandrodemiquel
